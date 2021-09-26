@@ -1,0 +1,252 @@
+
+@media(max-width:1199px){
+  .navbar-light .navbar-nav .nav-link{
+    font-size: 11px;
+  }
+  .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    padding-left: 0;
+  }
+  .row>* {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media(max-width:991px){
+  .nav-link{
+    display: inline;
+  }
+  .nav-item{
+    text-align: center;
+    margin-top: 10px;
+  }
+  .join_btn{
+    display: none;
+}
+.btn-large{
+  display: inherit;
+}
+.feature h1{
+  font-size: 29px;
+}
+.feature h5{
+  font-size: 16px;
+}
+header{
+  padding: 0px;
+  display: none;
+}
+.iphone6{
+  display: none;
+}
+}
+
+@media(max-width:767px){
+  .join_btn{
+      display: none;
+  }
+  .btn-large{
+    display: inherit;
+  }
+  .count_item h5{
+    font-size: 16px;
+  }
+  .count_item h6{
+    font-size: 11px;
+  }
+  .feature h1{
+    font-size: 25px;
+  }
+  .facebook{
+    width: 37px;
+    height: 37px;
+  }
+  .footer p{
+    font-size: 14px;
+  }
+  .list h4{
+    font-size: 17px;
+  }
+  .expart h1, .blog h1, .investor h1{
+    font-size: 20px;
+  }
+  .expart p, .dol p, .investor p {
+    font-size: 13px;
+  }
+  .nav-link{
+    display: inline;
+  }
+  .nav-item{
+    text-align: center;
+    margin-top: 10px;
+  }
+  .sub_footer ul{
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .sub_footer p{
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .abb h6{
+    font-size: 13px;
+  }
+  .footer h1{
+    margin-top: 20px;
+  }
+  .form-control {
+    display: block;
+    width: 80%;
+    margin: auto;
+  }
+  .consul h1{
+    font-size: 25px;
+  }
+  .mdi{
+    width: 28%;
+  }
+  .expart h3{
+    font-size: 18px;
+  }
+  .expart h5{
+    font-size: 15px;
+  }
+  .safe {
+    top: 14%;
+    left: 6%;
+    transform: translate(-6%,-14%);
+  }
+  .app {
+    top: 44%;
+    left: 7%;
+    transform: translate(-7%, -44%);
+  }
+  .Wallet {
+    left: 6%;
+    bottom: 16%;
+    transform: translate(-6%, -16%);
+  }
+  .expert {
+    top: 12%;
+    left: 87%;
+    transform: translate( -87%,-14%);
+  }
+  .instant {
+    top: 44%;
+    right: 6%;
+    transform: translate(-8%, -44%);
+  }
+  .recur {
+    right: 1%;
+    bottom: 16%;
+    transform: translate(-1%,-16%);
+  }
+  .box{
+    width: 45px;
+    height: 45px;
+  }
+  .simple h3{
+    font-size: 20px;
+    text-align: center;
+  }
+  .li_content h5{
+    font-size: 17px;
+  }
+  .li_content{
+    font-size: 13px;
+  }
+  .simple span{
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .sub_footer li{
+    margin-right: 22px;
+  }
+}
+@media(max-width:575px){
+  .abb{
+    margin-bottom: 23px;
+  }
+  .abb i{
+    margin-right: 15px;
+  }
+  .footer h1{
+    margin-top: 18px;
+  }
+  .safe {
+    top: 14%;
+    left: 6%;
+    transform: translate(-6%,-14%);
+  }
+  .app {
+    top: 44%;
+    left: 7%;
+    transform: translate(-7%, -44%);
+  }
+  .Wallet {
+    left: 6%;
+    bottom: 16%;
+    transform: translate(-6%, -16%);
+  }
+  .expert {
+    top: 12%;
+    left: 87%;
+    transform: translate( -87%,-14%);
+  }
+  .instant {
+    top: 44%;
+    right: 6%;
+    transform: translate(-8%, -44%);
+  }
+  .recur {
+    right: 1%;
+    bottom: 16%;
+    transform: translate(-1%,-16%);
+  }
+  .li_content p{
+      font-size:11px;
+  }
+  .li_content h5{
+      font-size:15px;
+  }
+  .box{
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+  }
+  .simple{
+    padding: 55px;
+  }
+  .simple h3{
+    font-size: 15px;
+    text-align: center;
+  }
+  .simple span{
+    width: 50px;
+    margin: auto;
+    margin-bottom: 22px;
+  }
+  .trans h1{
+    font-size: 24px;
+  }
+  .trans p{
+    font-size: 14px;
+  }
+  .sub_footer li{
+    margin-right: 15px;
+  }
+  .footer h1{
+    font-size: 19px;
+  }
+  .con, .mobo, .wall, .oop, .cop, .dop{
+    width: 35px;
+    height: 35px;
+  }
+  .safe p ,.app p, .Wallet p, .expert p, .instant p, .recur p{
+    font-size: 11px;
+}
+  .btn-large{
+    font-size: 9px;
+  }
+
+}
